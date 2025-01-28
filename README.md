@@ -35,4 +35,4 @@ No part of this project may be used, copied, modified, or distributed without ex
 ## How to Reproduce
 1. Clone this repository:
    ```bash
-   git clone https://github.com/MahumManzar/Hurricane-Katrina-GIS-Analysis.git
+   git clone https://github.com/MahumManzar/Spatial-Analysis-Hurrican-Katrina
